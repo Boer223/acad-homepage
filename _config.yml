@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xiaobo Cui"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/IMG_3052.PNG"
   bio              : "Ph.D. candidate"
   location         : "Wuhan, China"
   employer         :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/boer0223"
+  twitter          : "boer0223"
   vine             :
   weibo            :
   xing             :
